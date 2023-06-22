@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matthieu Boussicault</h1>
 <h3 align="center">Developper full Stack Junior ready for a new career</h3>
 
-- 🔭 I’m currently working on **Timmy**
+- 🔭 I’m currently working on **Timmy (student project)**
 
 - 📫 How to reach me **boussicaultmatthieu@gmail.com**
 
